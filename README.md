@@ -1,7 +1,7 @@
 ## 👋 Salut, moi c'est Loïc
 
 Étudiant en **Mastère Data Engineering & IA** à l'EFREI Paris, en reconversion depuis l'électronique.
-Alternant **Data Engineer** chez **Mobilize Financial Services** (à partir de novembre 2026) : pipelines ETL/ELT et migration de données d'Oracle vers GCP.
+je documente ici mes mon avancement.
 
 ### 🛠️ Stack
 
